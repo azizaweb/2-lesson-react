@@ -1,11 +1,11 @@
 import React from 'react'
 import Logo from '../assets/next.jpg'
 import Image from '../assets/image.png'
-import Logos from '../assets/logos.png'
+import Logos from '../assets/Logos.png'
 import Icon from '../assets/icon.png'
 import National from '../assets/national.png'
-import Groups from '../assets/groups.png'
-import Frame from '../assets/frame.png'
+import Groups from '../assets/Groups.png'
+import Frame from '../assets/Frame.png'
 
 const Header = () => {
   return (
